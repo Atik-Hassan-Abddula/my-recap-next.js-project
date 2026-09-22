@@ -1,11 +1,14 @@
 import React from 'react';
 
-const page = () => {
+const ProductId = async({params}) => {
+    const{ProductsId}= await params
+
+    
     return (
         <div>
-            
+            <h2>Product Id</h2>
         </div>
     );
 };
 
-export default page;
+export default ProductId;
