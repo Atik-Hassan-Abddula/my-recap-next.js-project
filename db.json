@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Wireless Headphones",
+      "price": 59.99,
+      "category": "Electronics",
+      "description": "Comfortable wireless headphones with clear sound and long battery life.",
+      "image": "https://example.com/headphones.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Smart Watch",
+      "price": 89.99,
+      "category": "Electronics",
+      "description": "A modern smartwatch with fitness tracking and notifications.",
+      "image": "https://example.com/smartwatch.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Running Shoes",
+      "price": 74.99,
+      "category": "Fashion",
+      "description": "Lightweight running shoes designed for comfort and daily exercise.",
+      "image": "https://example.com/shoes.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Laptop Backpack",
+      "price": 39.99,
+      "category": "Bags",
+      "description": "Durable backpack with a dedicated laptop compartment.",
+      "image": "https://example.com/backpack.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Coffee Maker",
+      "price": 49.99,
+      "category": "Home",
+      "description": "Easy-to-use coffee maker for preparing fresh coffee at home.",
+      "image": "https://example.com/coffeemaker.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Bluetooth Speaker",
+      "price": 45.99,
+      "category": "Electronics",
+      "description": "Portable Bluetooth speaker with powerful sound and deep bass.",
+      "image": "https://example.com/speaker.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Cotton T-Shirt",
+      "price": 19.99,
+      "category": "Fashion",
+      "description": "Soft and comfortable cotton t-shirt suitable for everyday use.",
+      "image": "https://example.com/tshirt.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Desk Lamp",
+      "price": 29.99,
+      "category": "Home",
+      "description": "Adjustable LED desk lamp suitable for studying and working.",
+      "image": "https://example.com/lamp.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Gaming Mouse",
+      "price": 34.99,
+      "category": "Gaming",
+      "description": "Responsive gaming mouse with adjustable DPI and RGB lighting.",
+      "image": "https://example.com/mouse.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Water Bottle",
+      "price": 14.99,
+      "category": "Accessories",
+      "description": "Reusable stainless steel water bottle that keeps drinks cool.",
+      "image": "https://example.com/bottle.jpg"
+    }
+  ]
+}
